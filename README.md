@@ -18,4 +18,5 @@ BitFlare was created by [@tijn](https://bitclout.com/u/tijn). Learn more about B
 
 ----
 @teambrixmusic on Github | [@BrixBoston100](https://bitclout.com/u/BrixBoston100) on Bitclout
+
 [Buy Me A Coffee](https://ko-fi.com/brixboston100) | [TipClout](https://bitclout.com/send-bitclout?public_key=BC1YLhTk3qzocZRDAAHyFvy7PME3xvPZyJn3eY2tfjGa8GmNwheU8Xv)
