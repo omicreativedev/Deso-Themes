@@ -1,6 +1,8 @@
 # Compatability
 
-Themes in /Bitclout are currently compatible with version 1.0.4 of Bitclout.com frontend as of July 9, 2021. If [PR #107](https://github.com/bitclout/frontend/pull/107) is merged and deployed, themes will be updated after main node deployment of that feature and old themes will be moved to an archive.
+Themes in **/Bitclout** are currently compatible with version 1.0.4 of Bitclout.com frontend as of July 9, 2021. If [PR #107](https://github.com/bitclout/frontend/pull/107) is merged and deployed, themes will be updated after main node deployment of that feature and old themes will be moved to an archive.
+
+Other nodes, frontends, projects, extensions, etc.— check README in each folder.
 
 # Other Nodes/ Frontends
 
